@@ -9,3 +9,5 @@ In this folder you will find the files necessary to produce the PCBs. They shoul
 In the folder "KiCAD", you will find all the CAD files to modify the design. As the name of the folder implies, the files are for the EDA software KiCAD, which is free and Open-source. This will also allow you to generate the Gerber files yourself, should you have the need to modify any settings.
 
 Feel free to give feedback and suggest any improvements!
+
+test
